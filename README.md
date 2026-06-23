@@ -12,10 +12,8 @@ A fast-paced, side-scrolling 2D endless runner game where you avoid hazards, dod
 
 Want to skip the code and just play? 
 
-1. **[Download the Repository](https://github.com/Frext/2D-Infinite-Runner/archive/refs/heads/main.zip)**
-
+1. **[Download the Repository](https://github.com/Frext/2d-infinite-runner/archive/refs/heads/main.zip)**
 2. Extract the ZIP file.
-
 3. Open the **`BuildWindows`** folder and launch **`2D Infinite Runner.exe`**.
 
 ---
@@ -38,19 +36,19 @@ https://github.com/user-attachments/assets/381d143e-8ecd-4a0a-bc34-854e0bd137da
 
 | Main Menu | Settings |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/1f007f5d-0f7b-49bb-b477-5fa0b584dc56" width="450" alt="Main Menu" />| <img src="https://github.com/user-attachments/assets/2478df83-4a96-4416-9e2f-eba40ed52bcb" width="450" alt="Settings"/> |
+| <img src="https://github.com/user-attachments/assets/1f007f5d-0f7b-49bb-b477-5fa0b584dc56" width="500" alt="Main Menu" />| <img src="https://github.com/user-attachments/assets/2478df83-4a96-4416-9e2f-eba40ed52bcb" width="500" alt="Settings"/> |
 
 | Ninja Frog Start | Ninja Frog Mid-Air|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/da5fad61-1981-4aee-9854-07fc3caec443" width="450" alt="Ninja Frog Start" />| <img src="https://github.com/user-attachments/assets/fc994426-3b9a-40ef-8c72-7bbab326e09b" width="450" alt="Ninja Frog Mid-Air"/> |
+| <img src="https://github.com/user-attachments/assets/da5fad61-1981-4aee-9854-07fc3caec443" width="500" alt="Ninja Frog Start" />| <img src="https://github.com/user-attachments/assets/fc994426-3b9a-40ef-8c72-7bbab326e09b" width="500" alt="Ninja Frog Mid-Air"/> |
 
 | Obstacle Collision | Game Over |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/04d8dbff-1da2-4f1d-b8e0-4027e2dd190c" width="450" alt="Obstacle Collision" />| <img src="https://github.com/user-attachments/assets/62383cdc-6a2c-4f81-a5cc-35e6489d7ee7" width="450" alt="Game Over"/> |
+| <img src="https://github.com/user-attachments/assets/04d8dbff-1da2-4f1d-b8e0-4027e2dd190c" width="500" alt="Obstacle Collision" />| <img src="https://github.com/user-attachments/assets/62383cdc-6a2c-4f81-a5cc-35e6489d7ee7" width="500" alt="Game Over"/> |
 
 | Mask Dude | Pinkie |
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/f8a337a0-dbe0-40cf-bf25-2812cb9d407b" width="450" alt="Mask Dude" />| <img src="https://github.com/user-attachments/assets/a50fa175-455d-4299-a849-144361487fbb" width="450" alt="Pinkie"/> |
+| <img src="https://github.com/user-attachments/assets/f8a337a0-dbe0-40cf-bf25-2812cb9d407b" width="500" alt="Mask Dude" />| <img src="https://github.com/user-attachments/assets/a50fa175-455d-4299-a849-144361487fbb" width="500" alt="Pinkie"/> |
 
 ---
 
